@@ -20,11 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              3 hrs 1 min     █████████████████████░░░░   83.60 %
-XML               24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-SQL               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-YAML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Java Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+From: 11 May 2024 - To: 18 May 2024
+
+Total Time: 3 hrs 36 mins
+
+Java              3 hrs 1 min     >>>>>>>>>>>>>>>>>>>>>----   83.60 %
+XML               24 mins         >>>----------------------   11.24 %
+SQL               4 mins          -------------------------   01.89 %
+YAML              4 mins          -------------------------   01.85 %
+Java Properties   2 mins          -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```txt
+Java              3 hrs 1 min     █████████████████████░░░░   83.60 %
+XML               24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+SQL               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+YAML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Java Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+```
+
 <!--END_SECTION:waka-->
 
 

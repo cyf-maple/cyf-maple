@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2024 - To: 25 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-Total Time: 11 hrs 53 mins
+Total Time: 2 hrs 38 mins
 
-Java              6 hrs 57 mins   >>>>>>>>>>>>>>>----------   58.45 %
-Rust              3 hrs 19 mins   >>>>>>>------------------   27.88 %
-Solidity          41 mins         >------------------------   05.82 %
-SQL               35 mins         >------------------------   04.90 %
-Text              5 mins          -------------------------   00.75 %
+Java              2 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>----   83.28 %
+Java Properties   14 mins         >>-----------------------   09.33 %
+XML               8 mins          >------------------------   05.60 %
+SQL               2 mins          -------------------------   01.35 %
+YAML              0 secs          -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->

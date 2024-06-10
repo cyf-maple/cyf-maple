@@ -20,15 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2024 - To: 01 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
-Total Time: 2 hrs 38 mins
+Total Time: 0 secs
 
-Java              2 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>----   83.28 %
-Java Properties   14 mins         >>-----------------------   09.33 %
-XML               8 mins          >------------------------   05.60 %
-SQL               2 mins          -------------------------   01.35 %
-YAML              0 secs          -------------------------   00.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

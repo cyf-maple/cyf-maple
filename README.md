@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2024 - To: 22 June 2024
+From: 22 June 2024 - To: 29 June 2024
 
-Total Time: 3 hrs 50 mins
+Total Time: 6 hrs 40 mins
 
-Vue.js       1 hr 28 mins    >>>>>>>>>>---------------   38.42 %
-JavaScript   1 hr 25 mins    >>>>>>>>>----------------   37.04 %
-Solidity     45 mins         >>>>>--------------------   19.71 %
-JSON         11 mins         >------------------------   04.79 %
-Text         0 secs          -------------------------   00.04 %
+Java              3 hrs 14 mins   >>>>>>>>>>>>-------------   48.52 %
+Python            1 hr 26 mins    >>>>>--------------------   21.62 %
+Makefile          1 hr 6 mins     >>>>---------------------   16.72 %
+Lua               28 mins         >>-----------------------   07.01 %
+Markdown          10 mins         >------------------------   02.70 %
 ```
 
 <!--END_SECTION:waka-->

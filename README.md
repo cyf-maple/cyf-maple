@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 31 August 2024 - To: 07 September 2024
 
-Total Time: 3 mins
+Total Time: 5 hrs 30 mins
 
-Solidity   3 mins          >>>>>>>>>>>>>>>>>>>>-----   80.39 %
-Other      0 secs          >>>>>--------------------   19.61 %
+Python         3 hrs 17 mins   >>>>>>>>>>>>>>-----------   57.79 %
+CSV            58 mins         >>>>---------------------   17.21 %
+Solidity       34 mins         >>>----------------------   10.05 %
+Makefile       15 mins         >------------------------   04.63 %
+Markdown       12 mins         >------------------------   03.62 %
 ```
 
 <!--END_SECTION:waka-->

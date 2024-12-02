@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 23 November 2024
+From: 24 November 2024 - To: 30 November 2024
 
-Total Time: 21 hrs 24 mins
+Total Time: 14 hrs 23 mins
 
-Go           9 hrs 43 mins   >>>>>>>>>>>--------------   45.37 %
-HTML         6 hrs 48 mins   >>>>>>>>-----------------   31.79 %
-YAML         1 hr 57 mins    >>-----------------------   09.17 %
-CSS          1 hr 23 mins    >>-----------------------   06.47 %
-Bash         30 mins         >------------------------   02.39 %
+Go            10 hrs 21 mins  >>>>>>>>>>>>>>>>>>-------   71.97 %
+HTML          1 hr 38 mins    >>>----------------------   11.37 %
+Markdown      55 mins         >>-----------------------   06.41 %
+TOML          22 mins         >------------------------   02.58 %
+C#            19 mins         >------------------------   02.31 %
 ```
 
 <!--END_SECTION:waka-->

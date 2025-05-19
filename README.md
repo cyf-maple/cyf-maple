@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 11 May 2025 - To: 18 May 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 24 mins
 
-No activity tracked
+Text    1 hr 11 mins    >>>>>>>>>>>>>>>>>>>>>----   84.04 %
+C++     13 mins         >>>>---------------------   15.69 %
+Other   0 secs          -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->

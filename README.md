@@ -20,15 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2025 - To: 20 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
-Total Time: 2 hrs 24 mins
+Total Time: 0 secs
 
-Python     2 hrs 4 mins    >>>>>>>>>>>>>>>>>>-------   73.33 %
-Other      25 mins         >>>>---------------------   15.04 %
-Text       18 mins         >>>----------------------   10.68 %
-JSON       1 min           -------------------------   00.95 %
-Markdown   0 secs          -------------------------   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

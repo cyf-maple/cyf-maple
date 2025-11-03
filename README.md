@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 26 October 2025 - To: 02 November 2025
 
-Total Time: 6 hrs 53 mins
+Total Time: 3 hrs 39 mins
 
-Text     5 hrs 45 mins   >>>>>>>>>>>>>>>>---------   64.90 %
-Other    1 hr 59 mins    >>>>>>-------------------   22.48 %
-Python   1 hr            >>>----------------------   11.31 %
-TOML     6 mins          -------------------------   01.30 %
+Text   3 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.03 %
+Bash   6 mins          >------------------------   02.97 %
 ```
 
 <!--END_SECTION:waka-->

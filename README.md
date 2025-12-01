@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 23 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
-Total Time: 4 hrs 32 mins
+Total Time: 8 hrs 35 mins
 
-Java             4 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.10 %
-Bash             8 mins          >------------------------   03.30 %
-Python           6 mins          >------------------------   02.40 %
-ca65 assembler   0 secs          -------------------------   00.11 %
-INI              0 secs          -------------------------   00.05 %
+Java              3 hrs 28 mins   >>>>>>>>>>---------------   40.33 %
+Go                1 hr 50 mins    >>>>>--------------------   21.40 %
+TypeScript        1 hr 20 mins    >>>>---------------------   15.50 %
+SQL               19 mins         >------------------------   03.70 %
+TOML              18 mins         >------------------------   03.67 %
 ```
 
 <!--END_SECTION:waka-->

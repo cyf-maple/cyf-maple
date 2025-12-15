@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
-Total Time: 7 hrs 37 mins
+Total Time: 3 hrs 22 mins
 
-Java             5 hrs 50 mins   >>>>>>>>>>>>>>>>>>>------   76.50 %
-Python           42 mins         >>-----------------------   09.39 %
-C++              25 mins         >------------------------   05.48 %
-Godot Resource   22 mins         >------------------------   04.96 %
-TOML             5 mins          -------------------------   01.20 %
+Java              2 hrs 1 min     >>>>>>>>>>>>>>-----------   57.82 %
+Python            1 hr 3 mins     >>>>>>>>-----------------   30.14 %
+Other             7 mins          >------------------------   03.51 %
+XML               5 mins          >------------------------   02.78 %
+CSV               4 mins          >------------------------   02.01 %
 ```
 
 <!--END_SECTION:waka-->

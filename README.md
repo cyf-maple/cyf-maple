@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-Total Time: 3 hrs 37 mins
+Total Time: 1 hr 26 mins
 
-JavaScript   2 hrs 22 mins   >>>>>>>>>>>>>>>>---------   65.07 %
-JSON         22 mins         >>>----------------------   10.42 %
-YAML         22 mins         >>>----------------------   10.27 %
-Docker       14 mins         >>-----------------------   06.48 %
-Bash         11 mins         >------------------------   05.13 %
+YAML         1 hr 1 min      >>>>>>>>>>>>>>>>>>-------   70.62 %
+JavaScript   20 mins         >>>>>>-------------------   23.40 %
+Bash         1 min           >------------------------   02.20 %
+Docker       1 min           -------------------------   01.18 %
+JSON         0 secs          -------------------------   01.02 %
 ```
 
 <!--END_SECTION:waka-->

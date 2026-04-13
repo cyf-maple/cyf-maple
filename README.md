@@ -20,15 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
-Total Time: 9 hrs
+Total Time: 3 hrs 55 mins
 
-Scala      4 hrs 42 mins         >>>>>>>>>>>>-------------   49.62 %
-Python     4 hrs 4 mins          >>>>>>>>>>>--------------   42.90 %
-Other      29 mins               >------------------------   05.18 %
-Markdown   8 mins                -------------------------   01.45 %
-Text       4 mins                -------------------------   00.85 %
+Scala    2 hrs 28 mins         >>>>>>>>>>>>>------------   52.91 %
+Python   1 hr 26 mins          >>>>>>>>-----------------   30.70 %
+Other    46 mins               >>>>---------------------   16.38 %
 ```
 
 <!--END_SECTION:waka-->

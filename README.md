@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2026 - To: 14 June 2026
+From: 14 June 2026 - To: 21 June 2026
 
-Total Time: 2 hrs 20 mins
+Total Time: 0 secs
 
-C#              2 hrs 20 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.74 %
-Git Config      0 secs                -------------------------   00.26 %
-Unity3D Asset   0 secs                -------------------------   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

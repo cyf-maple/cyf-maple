@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2026 - To: 02 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Total Time: 0 secs
+Total Time: 1 hr 29 mins
 
-Other   8 mins                >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C      53 mins               >>>>>>>>>>>>>>>----------   59.69 %
+JSON   29 mins               >>>>>>>>-----------------   33.33 %
+Bash   6 mins                >>-----------------------   06.89 %
+Text   0 secs                -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
